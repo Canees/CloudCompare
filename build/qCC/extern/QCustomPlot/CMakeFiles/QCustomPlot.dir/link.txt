@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libQCustomPlot.a CMakeFiles/QCustomPlot.dir/QCustomPlot_autogen/mocs_compilation.cpp.o CMakeFiles/QCustomPlot.dir/qcustomplot.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libQCustomPlot.a

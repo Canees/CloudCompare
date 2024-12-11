@@ -1,0 +1,299 @@
+{
+	"BUILD_DIR" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/QCC_IO_LIB_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/caner/Desktop/CloudCompare/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/caner/Desktop/CloudCompare/libs/qCC_io",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_io/CMakeLists.txt",
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_io/cmake/GDALSupport.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/caner/Desktop/CloudCompare",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/QCC_IO_LIB_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QCC_IO_LIB_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/AsciiFilter.h",
+			"MU",
+			"6YEA5652QU/moc_AsciiFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/AsciiOpenDlg.h",
+			"MU",
+			"6YEA5652QU/moc_AsciiOpenDlg.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/AsciiSaveDlg.h",
+			"MU",
+			"6YEA5652QU/moc_AsciiSaveDlg.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/BinFilter.h",
+			"MU",
+			"6YEA5652QU/moc_BinFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/DepthMapFileFilter.h",
+			"MU",
+			"6YEA5652QU/moc_DepthMapFileFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/DxfFilter.h",
+			"MU",
+			"6YEA5652QU/moc_DxfFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/FileIO.h",
+			"MU",
+			"6YEA5652QU/moc_FileIO.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/FileIOFilter.h",
+			"MU",
+			"6YEA5652QU/moc_FileIOFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/ImageFileFilter.h",
+			"MU",
+			"6YEA5652QU/moc_ImageFileFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/PlyFilter.h",
+			"MU",
+			"6YEA5652QU/moc_PlyFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/PlyOpenDlg.h",
+			"MU",
+			"6YEA5652QU/moc_PlyOpenDlg.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/RasterGridFilter.h",
+			"MU",
+			"6YEA5652QU/moc_RasterGridFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/ShpDBFFields.h",
+			"MU",
+			"6YEA5652QU/moc_ShpDBFFields.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/ShpFilter.h",
+			"MU",
+			"6YEA5652QU/moc_ShpFilter.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/ccGlobalShiftManager.h",
+			"MU",
+			"6YEA5652QU/moc_ccGlobalShiftManager.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/ccShiftAndScaleCloudDlg.h",
+			"MU",
+			"6YEA5652QU/moc_ccShiftAndScaleCloudDlg.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/qCC_io.h",
+			"MU",
+			"6YEA5652QU/moc_qCC_io.cpp",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include/rply.h",
+			"MU",
+			"6YEA5652QU/moc_rply.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/QCC_IO_LIB_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/QCC_IO_LIB_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"CC_CORE_LIB_USES_QT_CONCURRENT",
+		"CC_DXF_SUPPORT",
+		"CC_SHP_SUPPORT",
+		"QCC_IO_LIBRARY_BUILD",
+		"QCC_IO_LIB_EXPORTS",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGLEXTENSIONS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_io/include",
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_io/extern/dxflib/src",
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_io/extern/shapelib",
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_db/include",
+		"/Users/caner/Desktop/CloudCompare/build/libs/qCC_db/extern/CCCoreLib/exports",
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_db/extern/CCCoreLib/include",
+		"/Users/caner/Desktop/CloudCompare/libs/qCC_db/extern/CCCoreLib/extern/nanoflann/include",
+		"/Users/caner/Desktop/CloudCompare/libs/CCFbo/include",
+		"/opt/homebrew/opt/qt@5/lib/QtConcurrent.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtConcurrent.framework/Headers",
+		"/opt/homebrew/opt/qt@5/lib/QtCore.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers",
+		"/opt/homebrew/opt/qt@5/mkspecs/macx-clang",
+		"/opt/homebrew/opt/qt@5/lib/QtOpenGL.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers",
+		"/opt/homebrew/opt/qt@5/lib/QtWidgets.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers",
+		"/opt/homebrew/opt/qt@5/lib/QtGui.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/opt/homebrew/opt/qt@5/include",
+		"/opt/homebrew/opt/qt@5/include/QtOpenGLExtensions",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=c++14",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/QCC_IO_LIB_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/CMakeFiles/QCC_IO_LIB_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/homebrew/opt/qt@5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/homebrew/opt/qt@5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/caner/Desktop/CloudCompare/build/libs/qCC_io/CMakeFiles/QCC_IO_LIB_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/AsciiFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/AsciiOpenDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/AsciiSaveDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/BinFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/DepthMapFileFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/DxfFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/FileIO.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/FileIOFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/ImageFileFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/PlyFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/PlyOpenDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/RasterGridFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/ShpDBFFields.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/ShpFilter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/ccGlobalShiftManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/ccShiftAndScaleCloudDlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caner/Desktop/CloudCompare/libs/qCC_io/src/rply.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "/Users/caner/Desktop/CloudCompare/libs/qCC_io/ui" ],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

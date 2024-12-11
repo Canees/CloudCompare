@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CCAppCommon_autogen"
+  "CMakeFiles/CCAppCommon_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/CCAppCommon_autogen.dir/ParseCache.txt"
+  "CCAppCommon_autogen/66Q2ZLKIJV/qrc_darkstyle.cpp"
+  "CCAppCommon_autogen/C7WYRN2KXA/qrc_lightstyle.cpp"
+  "CCAppCommon_autogen/include/ui/ui_cameraParamDlg.h"
+  "CCAppCommon_autogen/include/ui/ui_displaySettingsDlg.h"
+  "CCAppCommon_autogen/include/ui/ui_pickOneElementDlg.h"
+  "CCAppCommon_autogen/include/ui/ui_stereoModeDlg.h"
+  "CCAppCommon_autogen/mocs_compilation.cpp"
+  "CCAppCommon_autogen/timestamp"
+  "CMakeFiles/CCAppCommon.dir/CCAppCommon_autogen/66Q2ZLKIJV/qrc_darkstyle.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/CCAppCommon_autogen/66Q2ZLKIJV/qrc_darkstyle.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/CCAppCommon_autogen/C7WYRN2KXA/qrc_lightstyle.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/CCAppCommon_autogen/C7WYRN2KXA/qrc_lightstyle.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/CCAppCommon_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/CCAppCommon_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccApplicationBase.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccApplicationBase.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccCameraParamEditDlg.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccCameraParamEditDlg.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccDisplaySettingsDlg.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccDisplaySettingsDlg.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccOptions.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccOptions.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccPickOneElementDlg.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccPickOneElementDlg.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccPluginManager.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccPluginManager.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccStereoModeDlg.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccStereoModeDlg.cpp.o.d"
+  "CMakeFiles/CCAppCommon.dir/src/ccTranslationManager.cpp.o"
+  "CMakeFiles/CCAppCommon.dir/src/ccTranslationManager.cpp.o.d"
+  "libCCAppCommon.dylib"
+  "libCCAppCommon.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/CCAppCommon.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
